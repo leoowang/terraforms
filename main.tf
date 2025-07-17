@@ -127,6 +127,6 @@ resource "aws_instance" "web" {
               USERDATA
 
   tags = {
-    Name = "web-instance-micro"
+    Name = "web-leoowang"
   }
 }
